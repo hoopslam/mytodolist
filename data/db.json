@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "title": "Testing",
+      "details": "Testing json server",
+      "category": "misc",
+      "id": 1
+    },
+    {
+      "title": "Miru's Todos",
+      "details": "Take a nap, eat, poop, take a nap, catch red dot",
+      "category": "todos",
+      "id": 2
+    },
+    {
+      "title": "Project Ideas",
+      "details": "Make a todo App using material ui so that I can make a todo list",
+      "category": "ideas",
+      "id": 3
+    },
+    {
+      "title": "Covid-19 vaccine",
+      "details": "Get vaccinated on Sep 13th 1pm",
+      "category": "reminders",
+      "id": 4
+    },
+    {
+      "title": "Interview",
+      "details": "Interview Sep 3rd Wednesday",
+      "category": "reminders",
+      "id": 5
+    },
+    {
+      "title": "grow new cat grass",
+      "details": "Grow new batch of cat grass for Miru",
+      "category": "todos",
+      "id": 6
+    },
+    {
+      "title": "Tortilla recipe",
+      "details": "-flour\n-lard\n-baking powder\n-time",
+      "category": "misc",
+      "id": 7
+    },
+    {
+      "title": "Miru Watchtower",
+      "details": "Make a watchtower above the refrigerator for Miru",
+      "category": "todos",
+      "id": 8
+    }
+  ]
+}
